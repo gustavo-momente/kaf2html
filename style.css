@@ -1,0 +1,49 @@
+.label {
+	background-color: #dd4814;
+	display: inline;
+	padding: .05em .2em .05em;
+	/*font-size: 75%;*/
+	/*font-weight: bold;*/
+	/*line-height: 1;*/
+	/*color: #fff;*/
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+
+.title
+{
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.ORGANIZATION { 
+    background-color: #00A1CF;
+}
+
+.MONEY
+{
+	background-color: #E08566;
+}
+
+.LOCATION
+{
+	background-color: #F58020;
+}
+
+.PERSON
+{
+	background-color: #00A777;
+}
+
+.Date
+{
+	background-color: #CACACA;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
